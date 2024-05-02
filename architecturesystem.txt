@@ -1,0 +1,34 @@
+E-commerce Platform
+│
+├── Authentication Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Product Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Cart Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Payment Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Logistics Service
+│   ├── Controllers
+│   ├── Models
+│   ├── Routes
+│   └── Utils
+│
+├── Database (e.g., PostgreSQL)
+└── Message Queue (e.g., RabbitMQ)
