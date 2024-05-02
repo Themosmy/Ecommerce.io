@@ -1,34 +1,69 @@
-E-commerce Platform
+e-commerce-platform/
 │
-├── Authentication Service
-│   ├── Controllers
-│   ├── Models
-│   ├── Routes
-│   └── Utils
+├── api-gateway/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── config/
+│   └── Dockerfile
 │
-├── Product Service
-│   ├── Controllers
-│   ├── Models
-│   ├── Routes
-│   └── Utils
+├── auth-service/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── config/
+│   └── Dockerfile
 │
-├── Cart Service
-│   ├── Controllers
-│   ├── Models
-│   ├── Routes
-│   └── Utils
+├── product-service/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── config/
+│   └── Dockerfile
 │
-├── Payment Service
-│   ├── Controllers
-│   ├── Models
-│   ├── Routes
-│   └── Utils
+├── cart-service/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── config/
+│   └── Dockerfile
 │
-├── Logistics Service
-│   ├── Controllers
-│   ├── Models
-│   ├── Routes
-│   └── Utils
+├── payment-service/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── config/
+│   └── Dockerfile
 │
-├── Database (e.g., PostgreSQL)
-└── Message Queue (e.g., RabbitMQ)
+├── logistics-service/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── config/
+│   └── Dockerfile
+│
+├── database/
+│   ├── migrations/
+│   ├── seeds/
+│   └── Dockerfile
+│
+└── message-queue/
+    ├── config/
+    └── Dockerfile
