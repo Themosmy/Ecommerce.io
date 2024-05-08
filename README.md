@@ -41,3 +41,5 @@ Logistics Service: Desenvolvido com Node.js/Express.js e integrado a sistemas de
 Database: Um banco de dados relacional como PostgreSQL é utilizado para armazenar dados importantes do sistema, incluindo informações de produtos, pedidos, usuários e detalhes de transações.
 
 Message Queue: Implementado com um sistema de fila de mensagens como RabbitMQ para comunicação assíncrona entre os serviços. Ele garante a entrega confiável de mensagens e ajuda a desacoplar os componentes do sistema.
+
+![Uploading ecommerce-Página-2.drawio.png…]()
