@@ -42,4 +42,5 @@ Database: Um banco de dados relacional como PostgreSQL é utilizado para armazen
 
 Message Queue: Implementado com um sistema de fila de mensagens como RabbitMQ para comunicação assíncrona entre os serviços. Ele garante a entrega confiável de mensagens e ajuda a desacoplar os componentes do sistema.
 
-![Uploading ecommerce-Página-2.drawio.png…]()
+![ecommerce-Página-2 drawio](https://github.com/Themosmy/Ecommerce.io/assets/167161443/414b9b19-da73-427d-956a-5464705b82e4)
+
